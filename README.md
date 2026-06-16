@@ -1,6 +1,6 @@
-# Spelunkery: Navigation Edition 🧭📐
+# Spelunkery: Navigation addon 🧭📐
 
-Welcome to **Spelunkery: Navigation Edition** — an immersion-focused navigation addon for Minecraft 1.20.1 (Forge). 
+Welcome to **Spelunkery: Navigation addon** — an immersion-focused navigation addon for Minecraft 1.20.1 (Forge). 
 
 This mod reworks how coordinates and navigation tools work to provide a more authentic, medieval maritime experience. Instead of relying on exact block numbers from the `F3` debug screen, players use a stylized grid system to navigate the world.
 
